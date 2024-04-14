@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+*.sdf
+*.suo
+/CodeInjectdm/Debug
+*.ilk
+*.pdb
+*.ipch
